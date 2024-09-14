@@ -1,0 +1,13 @@
+{
+  "layout": "theme",
+  "sections": {
+    "ecom-help-page": {
+      "type": "ecom-help-page",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "ecom-help-page"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "layout": "theme",
+  "sections": {
+    "ecom-search-page-search": {
+      "type": "ecom-search-page-search",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "ecom-search-page-search"
+  ]
+}

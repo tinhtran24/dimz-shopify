@@ -1,0 +1,13 @@
+{
+  "layout": "theme",
+  "sections": {
+    "ecom-404-404": {
+      "type": "ecom-404-404",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "ecom-404-404"
+  ]
+}
